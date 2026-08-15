@@ -1,0 +1,15 @@
+# Ruta de aprendizaje
+
+Sigue este orden sugerido:
+
+1. Terminal y navegación: `pwd`, `ls`, `cd` y ayuda con `man`.
+2. Archivos y texto: crear, copiar, mover, leer y buscar archivos.
+3. Git local: `status`, `add`, `commit`, `log` y `diff`.
+4. Permisos y usuarios: propietario, grupo y permisos de lectura, escritura y ejecución.
+5. Procesos y servicios: procesos en ejecución, señales y registros del sistema.
+6. Redes: direcciones IP, puertos, DNS y conexiones del propio laboratorio.
+7. Análisis defensivo de logs: buscar errores, accesos y patrones en datos sintéticos.
+8. GitHub: repositorios remotos, ramas, pull requests e issues.
+9. Bash: scripts sencillos para automatizar tareas repetitivas y seguras.
+
+Avanza sólo cuando puedas explicar con tus palabras qué hiciste y cómo verificaste el resultado.

@@ -1,0 +1,11 @@
+# Archivos temporales del editor o del sistema
+*~
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Variables locales que pueden contener datos sensibles
+.env
+.env.local
+
+# Los logs sintéticos del laboratorio se pueden versionar.
