@@ -1,0 +1,8 @@
+Aug 22 20:01:12 server sshd[1201]: Accepted password for ana from 192.0.2.10 port 51120 ssh2
+Aug 22 20:03:41 server sshd[1210]: Failed password for root from 203.0.113.50 port 43001 ssh2
+Aug 22 20:03:45 server sshd[1211]: Failed password for root from 203.0.113.50 port 43002 ssh2
+Aug 22 20:04:01 server sshd[1215]: Failed password for admin from 198.51.100.24 port 51111 ssh2
+Aug 22 20:04:07 server sshd[1217]: Failed password for root from 203.0.113.50 port 43003 ssh2
+Aug 22 20:07:15 server sshd[1230]: Accepted password for pedro from 192.0.2.15 port 52100 ssh2
+Aug 22 20:10:33 server sshd[1250]: Failed password for admin from 198.51.100.24 port 51112 ssh2
+Aug 22 20:11:02 server sshd[1254]: Failed password for test from 203.0.113.50 port 43004 ssh2

@@ -1,0 +1,3 @@
+ana:admin
+pedro:user
+juan:user

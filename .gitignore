@@ -9,3 +9,12 @@ Thumbs.db
 .env.local
 
 # Los logs sintéticos del laboratorio se pueden versionar.
+
+# Copias temporales del editor
+*.save
+*.save.*
+
+# Archivos generados durante prácticas de compresión
+*.tar
+*.tar.gz
+restaurado/
