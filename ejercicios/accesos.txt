@@ -1,0 +1,6 @@
+ana:admin
+pedro:user
+juan:user
+maria:admin
+lucas:user
+ana:admin
