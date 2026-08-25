@@ -9,7 +9,9 @@ Sigue este orden sugerido:
 5. Procesos y servicios: procesos en ejecución, señales y registros del sistema.
 6. Redes: direcciones IP, puertos, DNS y conexiones del propio laboratorio.
 7. Análisis defensivo de logs: buscar errores, accesos y patrones en datos sintéticos.
-8. GitHub: repositorios remotos, ramas, pull requests e issues.
+8. GitHub: repositorios remotos y `push`. Pendiente practicar ramas, pull requests e issues.
 9. Bash: scripts sencillos para automatizar tareas repetitivas y seguras.
+10. Integridad y metadatos de archivos: SHA-256, verificación de integridad, `stat`, inode, hard links y diferencias entre enlaces y copias.
 
 Avanza sólo cuando puedas explicar con tus palabras qué hiciste y cómo verificaste el resultado.
+
