@@ -22,4 +22,3 @@ for archivo in ejercicios/*.txt; do
 echo "Archivo: $archivo"
 done
 exit 0
-fi

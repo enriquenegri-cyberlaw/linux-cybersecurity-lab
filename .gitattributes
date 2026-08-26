@@ -1,0 +1,2 @@
+# Keep text files in LF format for Linux and WSL.
+* text=auto eol=lf
