@@ -1,7 +1,26 @@
 # Git y GitHub
 
-Git permite guardar el historial de cambios de un proyecto. GitHub permite alojar ese historial en un servicio remoto y colaborar con otras personas.
+Este módulo reúne las prácticas de control de versiones local con Git y el trabajo con repositorios remotos en GitHub.
 
-Primero aprende Git en tu equipo: revisa cambios con `git status`, compara con `git diff`, guarda avances con `git add` y `git commit`, y consulta el historial con `git log`.
+## Git local
 
-Después practica GitHub: crear un remoto, enviar cambios, usar ramas y abrir pull requests. Antes de ejecutar un comando, intenta explicar qué cambio producirá.
+Se practicaron operaciones como:
+
+- revisar el estado del repositorio con `git status`;
+- inspeccionar cambios con `git diff`;
+- preparar cambios específicos con `git add`;
+- crear commits con `git commit`;
+- consultar el historial con `git log`;
+- revisar el contenido preparado para un commit con `git diff --cached`.
+
+## GitHub
+
+Se practicó la conexión del repositorio local con un repositorio remoto y el envío de commits mediante `git push`.
+
+Todavía están pendientes prácticas específicas de:
+
+- ramas;
+- pull requests;
+- issues.
+
+Antes de ejecutar una operación de Git o GitHub, conviene identificar qué estado se espera modificar y comprobar el resultado después.
