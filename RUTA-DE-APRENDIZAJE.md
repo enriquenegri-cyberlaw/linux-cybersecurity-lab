@@ -11,7 +11,7 @@ Sigue este orden sugerido:
 7. Análisis defensivo de logs: buscar errores, accesos y patrones en datos sintéticos.
 8. GitHub: repositorios remotos y `push`. Pendiente practicar ramas, pull requests e issues.
 9. Bash: scripts sencillos para automatizar tareas repetitivas y seguras.
-10. Integridad y metadatos de archivos: SHA-256, verificación de integridad, `stat`, inode, hard links y diferencias entre enlaces y copias.
+10. Integridad y metadatos de archivos: SHA-256, verificación de integridad, `stat`, inode, hard links y diferencias entre enlaces y copias. Práctica de copias, hard links, symlinks e inodes completada y documentada en `ejercicios/copia-hardlink-symlink-inodes.md` (commit `d090a4b`); SHA-256, verificación de integridad y `stat` continúan pendientes.
 
 Avanza sólo cuando puedas explicar con tus palabras qué hiciste y cómo verificaste el resultado.
 
