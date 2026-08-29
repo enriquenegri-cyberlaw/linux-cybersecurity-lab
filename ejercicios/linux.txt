@@ -1,4 +1,0 @@
-Estoy practicando linux sin comandos
-linux utiliza varias lineas
-Windows tambien tiene permisos
-linux tambien tiene muchos comandos
