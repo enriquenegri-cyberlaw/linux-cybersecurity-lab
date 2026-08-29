@@ -26,7 +26,7 @@ Este módulo enseña a orientarte en la terminal y a pedir ayuda cuando no conoc
 
 3. **Qué observar:** aparecerán nombres como `linux`, `ejercicios` o `notas`. Los nombres que representan directorios suelen mostrarse con un color diferente, según la configuración de tu terminal.
 4. **Ejercicio:** ejecuta `ls` en la carpeta principal del laboratorio e identifica un archivo y un directorio.
-5. **Cómo comprobarlo:** debes poder señalar, por ejemplo, `notas.txt` como archivo y `linux` como directorio.
+5. **Cómo comprobarlo:** debes poder señalar, por ejemplo, `README.md` como archivo y `linux` como directorio.
 
 ## `ls -la`
 
