@@ -1,2 +1,0 @@
-Estoy aprendiendo linux
-Linux corre dentro de WSL
