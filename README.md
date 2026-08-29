@@ -1,14 +1,54 @@
-# Laboratorio de Linux y ciberseguridad
+# Linux & Cybersecurity Learning Lab
 
-Este repositorio es un espacio de práctica para aprender Linux, Git, GitHub y análisis defensivo de forma gradual.
+A hands-on learning repository focused on Linux, Git, GitHub, Bash, defensive security, file integrity, metadata, and technical evidence analysis.
 
-La práctica debe realizarse únicamente sobre archivos, equipos y entornos propios o autorizados.
+The goal of this laboratory is not to memorize commands, but to understand what they do, observe their effects, verify results, and document conclusions supported by evidence.
 
-## Cómo usar este laboratorio
+All security-related exercises are performed only on owned, synthetic, or explicitly authorized systems and data.
 
-1. Lee `RUTA-DE-APRENDIZAJE.md`.
-2. Practica un tema por vez.
-3. Anota qué comando usaste y qué resultado obtuviste.
-4. Usa Git para registrar avances pequeños y claros cuando estés preparado.
+## Repository Structure
 
-El objetivo no es memorizar comandos: es comprender qué hacen, cuándo usarlos y cómo comprobar su resultado.
+- [`linux/comandos-basicos.md`](linux/comandos-basicos.md) — Linux terminal navigation and command fundamentals.
+- [`bash/`](bash/) — Bash exercises covering arguments, conditions, loops, functions, and file processing.
+- [`ejercicios/`](ejercicios/) — Practice datasets, file-integrity material, metadata exercises, and documented experiments.
+- [`logs/`](logs/) — Synthetic authentication logs used for defensive log analysis.
+- [`git-github/`](git-github/) — Git and GitHub learning progress and workflow documentation.
+- [`notas/ciberseguridad.md`](notas/ciberseguridad.md) — Cybersecurity principles and technical reasoning notes.
+
+## Documented Practice
+
+### Copies, Hard Links, Symlinks and Inodes
+
+[`ejercicios/copia-hardlink-symlink-inodes.md`](ejercicios/copia-hardlink-symlink-inodes.md)
+
+A practical experiment comparing independent copies, hard links, and symbolic links through inode inspection, file modification, deletion, and restoration.
+
+The exercise emphasizes the distinction between observed evidence, technical inference, and unsupported conclusions.
+
+## Current Learning Areas
+
+The repository currently includes practice related to:
+
+- Linux files, directories, permissions, and metadata;
+- Git version control and GitHub remote workflows;
+- Bash scripting;
+- defensive analysis of synthetic authentication logs;
+- file integrity and hashing material;
+- copies, hard links, symbolic links, and inodes.
+
+Further structured practice and documentation are planned for SHA-256 verification, `stat`, Git branches, pull requests, issues, processes, services, and networking.
+
+## Learning Method
+
+Each topic follows a practical approach:
+
+1. perform the exercise manually;
+2. observe the result;
+3. explain why it occurred;
+4. verify the explanation with additional evidence or a counterexample;
+5. document the practice;
+6. record the progress with Git.
+
+## Language
+
+The main repository overview is written in English for accessibility. Detailed learning notes and exercises are primarily written in Spanish.
