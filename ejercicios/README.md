@@ -15,8 +15,12 @@ El directorio `archivos-texto/` contiene archivos utilizados en prácticas de ma
 
 ## Integridad
 
-Los archivos `archivo1.txt`, `archivo2.txt`, `archivo3.txt`, `hashes.sha256`, `integridad.txt` e `integridad.sha256` corresponden a material de prácticas de integridad que todavía debe revisarse y documentarse en detalle.
+Los archivos `archivo1.txt`, `archivo2.txt`, `archivo3.txt`, `hashes.sha256`, `integridad.txt` e `integridad.sha256` forman parte de las prácticas de integridad del laboratorio.
+
+La práctica principal sobre SHA-256, verificación de integridad, metadatos y análisis probatorio está documentada en:
+
+- [`sha256-integridad-metadatos.md`](sha256-integridad-metadatos.md)
 
 ## Prácticas documentadas
 
-- `copia-hardlink-symlink-inodes.md`: práctica sobre copias, hard links, symlinks e inodes.
+- [`copia-hardlink-symlink-inodes.md`](copia-hardlink-symlink-inodes.md): práctica sobre copias, hard links, symlinks e inodes.
