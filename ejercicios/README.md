@@ -24,3 +24,4 @@ La práctica principal sobre SHA-256, verificación de integridad, metadatos y a
 ## Prácticas documentadas
 
 - [`copia-hardlink-symlink-inodes.md`](copia-hardlink-symlink-inodes.md): práctica sobre copias, hard links, symlinks e inodes.
+- [`permisos-usuarios.md`](permisos-usuarios.md): práctica sobre permisos de archivos y directorios, `chmod`, `umask`, owner, group, `chown` y `chgrp`.
