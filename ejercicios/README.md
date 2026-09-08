@@ -26,3 +26,4 @@ La práctica principal sobre SHA-256, verificación de integridad, metadatos y a
 - [`copia-hardlink-symlink-inodes.md`](copia-hardlink-symlink-inodes.md): práctica sobre copias, hard links, symlinks e inodes.
 - [`permisos-usuarios.md`](permisos-usuarios.md): práctica sobre permisos de archivos y directorios, `chmod`, `umask`, owner, group, `chown` y `chgrp`.
 - [`procesos-servicios.md`](procesos-servicios.md): práctica sobre procesos, PID/PPID, jobs, señales, estados, systemd, servicios y logs.
+- [`logs-analisis-defensivo.md`](logs-analisis-defensivo.md): práctica sobre lectura, filtrado, interpretación y correlación de logs entre Debian WSL2 y Windows.
